@@ -1,0 +1,22 @@
+body{
+    background-color: #016f32;;
+}
+h1{
+    font-size: 80px;
+    color: goldenrod;
+}
+p{
+    font-size: 50px;
+    color: white;
+}
+button{
+     color: #016f32;
+     background-color: goldenrod;
+     width: 150px;
+     font-size: 30px;
+     font-weight: bold;
+     border: none;
+     border-radius: 4px;
+     margin: 10px 10px;
+
+}
